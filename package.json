@@ -1,17 +1,21 @@
 {
-  "name": "catbox-memory",
-  "description": "Memory adapter for catbox",
-  "version": "1.0.2",
-  "author": "Eran Hammer <eran@hueniverse.com> (http://hueniverse.com)",
+  "name": "catbox-json",
+  "description": "JSON file adapter for catbox",
+  "version": "1.0.0",
+  "author": "Johan Nordberg <code@johan-nordberg.com> (http://johan-nordberg.com)",
   "contributors": [
-    "Wyatt Preul <wpreul@gmail.com> (http://jsgeek.com)"
+    "Wyatt Preul <wpreul@gmail.com> (http://jsgeek.com)",
+    "Eran Hammer <eran@hueniverse.com> (http://hueniverse.com)"
   ],
-  "repository": "git://github.com/spumko/catbox-memory",
+  "repository": "git://github.com/jnordberg/catbox-json",
   "main": "index",
   "keywords": [
     "cache",
     "catbox",
-    "memory"
+    "memory",
+    "persistent",
+    "storage",
+    "file"
   ],
   "engines": {
     "node": ">=0.10.22"
@@ -29,7 +33,7 @@
   "licenses": [
     {
       "type": "BSD",
-      "url": "http://github.com/spumko/catbox-memory/raw/master/LICENSE"
+      "url": "http://github.com/jnordberg/catbox-json/raw/master/LICENSE"
     }
   ]
 }
