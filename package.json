@@ -1,7 +1,7 @@
 {
   "name": "catbox-json",
   "description": "JSON file adapter for catbox",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Johan Nordberg <code@johan-nordberg.com> (http://johan-nordberg.com)",
   "contributors": [
     "Wyatt Preul <wpreul@gmail.com> (http://jsgeek.com)",
