@@ -24,7 +24,7 @@
     "hoek": "2.x.x"
   },
   "devDependencies": {
-    "catbox": "2.x.x",
+    "catbox": "3.4.x",
     "lab": "3.x.x"
   },
   "scripts": {
